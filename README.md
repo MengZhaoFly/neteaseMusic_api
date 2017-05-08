@@ -6,5 +6,8 @@
 
 在线url
 http://neteasemusic.leanapp.cn<br>
-例如:http://neteasemusic.leanapp.cn/search?keywords=海阔天空
+
+调用例子:<br>
+http://neteasemusic.leanapp.cn/search?keywords=海阔天空<br>
+http://neteasemusic.leanapp.cn/lyric?id=347230<br>
 
